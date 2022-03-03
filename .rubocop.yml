@@ -3,4 +3,4 @@ inherit_from: .rubocop_todo.yml
 require: rubocop-rspec
 AllCops:
   NewCops: enable
-  TargetRubyVersion: 3.0.0
+  TargetRubyVersion: 2.7.0

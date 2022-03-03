@@ -1,6 +1,8 @@
 # frozen_string_literal: true
 
-ruby '3.0.0'
+source 'https://rubygems.org'
+
+ruby '2.7.0'
 
 group :development do
   gem 'rspec', require: false
