@@ -14,6 +14,12 @@ cd unmineable-workers
 bundle install
 ```
 
+### Ubuntu prerequisites:
+
+```bash
+apt install ruby-dev
+```
+
 ## Configuration
 
 You need to obtain account identifier symilar to `aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee`.
