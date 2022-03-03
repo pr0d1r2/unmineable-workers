@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/unmineable_workers'
+
+unmineable_workers = UnmineableWorkers.new(account: File.read('.account').strip)
+unmineable_workers.algo_offline(ARGV[0], ARGV[1..-1]).each do |worker|
+  puts worker
+end
