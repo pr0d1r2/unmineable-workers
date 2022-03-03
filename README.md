@@ -2,11 +2,11 @@
 
 Display workers on [unmineable](https://www.unmineable.com) account.
 
-# Why?
+## Why?
 
 To build watchdog and notifications on top of it.
 
-# Setup
+## Setup
 
 ```bash
 git clone git@github.com/pr0d1r2/unmineable-workers
@@ -14,7 +14,7 @@ cd unmineable-workers
 bundle install
 ```
 
-# Configuration
+## Configuration
 
 You need to obtain account identifier symilar to `aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee`.
 Go to your account in [unmineable](https://www.unmineable.com) with web
@@ -24,7 +24,7 @@ browser and using inspect acquire it from requests.
 echo aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee >> .account
 ```
 
-# Usage
+## Usage
 
 You can check all algo hosts:
 
@@ -56,7 +56,7 @@ bundle exec bin/algo_offline randomx expected_host1 expected_host2
 bundle exec bin/algo_offline kawpow expected_host1 expected_host2
 ```
 
-# Development
+## Development
 
 ```bash
 bundle exec guard
