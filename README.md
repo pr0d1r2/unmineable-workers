@@ -66,6 +66,10 @@ bundle exec guard
 
 Consider using my [unmineable referral link](https://www.unmineable.com/?ref=3792-egij) (0.75% pool fee instead of 1% for you as well) or [donate](https://github.com/pr0d1r2/donate) or both.
 
+## Related
+
+There is also [unmineable-miner](https://github.com/pr0d1r2/unmineable-miner).
+
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
