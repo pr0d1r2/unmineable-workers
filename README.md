@@ -70,7 +70,9 @@ bundle exec guard
 
 ## Related
 
-There is also [unmineable-miner](https://github.com/pr0d1r2/unmineable-miner).
+There are also:
+- [unmineable-miner](https://github.com/pr0d1r2/unmineable-miner)
+- [unmineable-pushover-notification](https://github.com/pr0d1r2/unmineable-pushover-notification)
 
 ## Support
 
