@@ -4,7 +4,7 @@ Display workers on [unmineable](https://www.unmineable.com) account.
 
 ## Why?
 
-To build watchdog and notifications on top of it.
+To build watchdog and [notifications](https://github.com/pr0d1r2/unmineable-pushover-notification) on top of it.
 
 ## Setup
 
